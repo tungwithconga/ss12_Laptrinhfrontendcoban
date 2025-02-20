@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container-1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.card{
+    text-align: center;
+}
+.button{
+    width: 100%;
+}
+.important{
+    background-color: orange;
+}
+h3{
+    text-align: center;
+}
