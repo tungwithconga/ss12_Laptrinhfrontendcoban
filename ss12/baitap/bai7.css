@@ -6,7 +6,7 @@
 }
 .card img {
     object-fit: cover;
-    height: 200px;
+    height: 400px;
 }
 .card-body {
     position: absolute;
@@ -14,7 +14,6 @@
     left: 10px;
     right: 10px;
     border-radius: 10px;
-    padding: 10px;
 }
 .col-md-4 p{
     display: flex;
@@ -25,4 +24,11 @@
     margin-top: 30px;
     display: flex;
     justify-content: space-between;
+}
+.update{
+    width: 400px;
+}
+.card-title{
+    font-size: 25px;
+    font-weight: bold;
 }
